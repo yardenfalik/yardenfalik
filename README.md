@@ -1,8 +1,8 @@
 ### <h1>Yarden Falik</h1>
-### <ul>
-###   <li><a href="https://twitter.com/YardenFalik"><b>Twitter</b></a></li>
-###   <li><a href="https://open.spotify.com/user/nobbe06n8xt2uo22yvdggbfhh?si=CI6uLIvmTsq7ebWNHTX9Gw"><b>Spotify</b></a></li>
-### </ul>
+<ul>
+  <li><a href="https://twitter.com/YardenFalik"><b>Twitter</b></a></li>
+  <li><a href="https://open.spotify.com/user/nobbe06n8xt2uo22yvdggbfhh?si=CI6uLIvmTsq7ebWNHTX9Gw"><b>Spotify</b></a></li>
+</ul>
 
 <!--
 **yardenfalik/yardenfalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
