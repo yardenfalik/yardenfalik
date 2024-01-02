@@ -1,6 +1,4 @@
-### <h1>Yarden Falik</h1>
-
-Hi! I am Yarden. 
+# Hi! I am Yarden. 👋
 I'm 18 year old, Full Stack Developer, I know a wide range of programming languages such as C++, Python, C, Java, JavaScript, HTML, and CSS.
 
 <!--
