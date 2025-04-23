@@ -1,7 +1,7 @@
 # Hi! I am Yarden. 👋
 <!-- I'm 18 year old, Full Stack Developer, I know a wide range of programming languages such as C++, Python, C, Java, JavaScript, HTML, and CSS.-->
 
-**Age:** 19 | **Full Stack Developer** | **Address:** Israel | **Twitter:** @yardenfalik | **Programming Knowledge:** C++, Python, C, Java, React, TypeScript, JavaScript, HTML, and CSS |
+**Age:** 19 | **Full Stack Developer** | **Programming Knowledge:** C++, Python, C, Java, React, TypeScript, JavaScript, HTML, and CSS | [**Twitter**](https://x.com/YardenFalik) |
 
 <!--
 **yardenfalik/yardenfalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
